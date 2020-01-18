@@ -1,0 +1,2 @@
+k8s 部署sonarqube
+https://www.cnblogs.com/ssgeek/p/11972773.html
